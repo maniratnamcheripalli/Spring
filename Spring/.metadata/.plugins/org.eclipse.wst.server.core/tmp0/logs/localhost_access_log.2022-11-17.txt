@@ -1,0 +1,9 @@
+127.0.0.1 - - [17/Nov/2022:11:27:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:11:27:55 +0530] "GET /SampleProjectOnEcom/ HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:11:28:02 +0530] "GET /SampleProjectOnEcom/Login HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:11:28:07 +0530] "GET /SampleProjectOnEcom/Home HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:11:28:09 +0530] "GET /SampleProjectOnEcom/header.jsp HTTP/1.1" 404 740
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:11:28:12 +0530] "GET /SampleProjectOnEcom/Login HTTP/1.1" 404 682
+127.0.0.1 - - [17/Nov/2022:11:29:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:11:29:15 +0530] "GET /SampleProjectOnEcom/ HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [17/Nov/2022:11:29:19 +0530] "GET /SampleProjectOnEcom/Login HTTP/1.1" 404 682

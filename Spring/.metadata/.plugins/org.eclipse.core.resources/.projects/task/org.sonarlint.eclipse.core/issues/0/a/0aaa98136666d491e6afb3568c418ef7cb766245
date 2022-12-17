@@ -1,0 +1,14 @@
+
+`
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæHH ,RMINORZ
+CODE_SMELL
+„
+java:S1128
+"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸ÎùÿÿÿÿH¢,RMINORZ
+CODE_SMELL
+v
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿH¤,RMINORZ
+CODE_SMELL
+w
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—ÖùÿÿÿÿH¦,RMINORZ
+CODE_SMELL

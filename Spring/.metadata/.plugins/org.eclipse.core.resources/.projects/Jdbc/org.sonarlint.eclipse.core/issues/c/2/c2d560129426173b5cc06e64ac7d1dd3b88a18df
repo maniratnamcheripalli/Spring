@@ -1,0 +1,16 @@
+
+l	java:S125."<This block of commented-out lines of code should be removed.(ÍÒô„ùÿÿÿÿH‡)RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ä«ì£H‰)RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(öÈüÑHŠ)RMAJORZ
+CODE_SMELL
+f	java:S1255"<This block of commented-out lines of code should be removed.(ÚÑóbH‘)RMAJORZ
+CODE_SMELL
+g	java:S125""<This block of commented-out lines of code should be removed.(öÈüÑH“)RMAJORZ
+CODE_SMELL
+
+java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿHš)RMINORZ
+CODE_SMELL
+i	java:S106<"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHœ)RMAJORZ
+CODE_SMELL

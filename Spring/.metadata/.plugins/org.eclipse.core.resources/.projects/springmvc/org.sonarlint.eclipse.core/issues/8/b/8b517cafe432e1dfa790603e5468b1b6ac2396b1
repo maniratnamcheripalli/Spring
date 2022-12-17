@@ -1,0 +1,7 @@
+
+’
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "id".(Õ¡ÙŞıÿÿÿÿ8ÏÂ…¼0H»-RMINORZ
+CODE_SMELL
+i
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8ÏÂ…¼0H¾-RMINORZ
+CODE_SMELL

@@ -1,0 +1,28 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ€š©øÿÿÿÿHî/RMAJORZ
+CODE_SMELL
+d	java:S106""9Replace this use of System.out or System.err by a logger.(ÌØöÄHï/RMAJORZ
+CODE_SMELL
+l	java:S125."<This block of commented-out lines of code should be removed.(¡µéşÿÿÿÿHğ/RMAJORZ
+CODE_SMELL
+i	java:S1065"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿHò/RMAJORZ
+CODE_SMELL
+R
+java:S21757"-A "List<Customer>" cannot contain a "String".(‚ôàHó/RMAJORZBUG
+R
+java:S21757"-A "List<Customer>" cannot contain a "String".(‚ôàHô/RMAJORZBUG
+i	java:S106="9Replace this use of System.out or System.err by a logger.(Êª—üÿÿÿÿHõ/RMAJORZ
+CODE_SMELL
+i	java:S106C"9Replace this use of System.out or System.err by a logger.(ÇÒî‡ÿÿÿÿÿHö/RMAJORZ
+CODE_SMELL
+v
+java:S4488H"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•H÷/RMINORZ
+CODE_SMELL
+i	java:S106L"9Replace this use of System.out or System.err by a logger.(—¨ïìúÿÿÿÿHù/RMAJORZ
+CODE_SMELL
+d
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿHú/RMINORZ
+CODE_SMELL
+u
+java:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(¸ßšâHü/RCRITICALZ
+CODE_SMELL

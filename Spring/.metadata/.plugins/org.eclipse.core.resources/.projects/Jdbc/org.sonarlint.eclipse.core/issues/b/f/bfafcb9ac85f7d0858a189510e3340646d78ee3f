@@ -1,0 +1,16 @@
+
+g	java:S125!"<This block of commented-out lines of code should be removed.(¾ÖôÿH†3RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ì…ÃèùÿÿÿÿH3RMAJORZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(Å­ËİúÿÿÿÿH3RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(éø®øÿÿÿÿH3RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ŸäûÿÿÿÿH“3RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ĞÒİ’øÿÿÿÿH”3RMAJORZ
+CODE_SMELL
+x
+java:S1128"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿH•3RMINORZ
+CODE_SMELL

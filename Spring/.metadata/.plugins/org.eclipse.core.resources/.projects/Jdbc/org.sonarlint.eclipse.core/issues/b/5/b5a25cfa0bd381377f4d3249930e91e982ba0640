@@ -1,0 +1,16 @@
+
+Š
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "insert".(ÂûúîHŒ.RMINORZ
+CODE_SMELL
+—
+java:S1488!"fImmediately return this expression instead of assigning it to the temporary variable "queryForObject".( ¤åŒÿÿÿÿÿH.RMINORZ
+CODE_SMELL
+Š
+java:S1488)"^Immediately return this expression instead of assigning it to the temporary variable "delete".(À¬ìŒH’.RMINORZ
+CODE_SMELL
+—
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "queryForObject".(ÖÔ™³ùÿÿÿÿH•.RMINORZ
+CODE_SMELL
+Š
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "update".(Ä×‰ÄH˜.RMINORZ
+CODE_SMELL

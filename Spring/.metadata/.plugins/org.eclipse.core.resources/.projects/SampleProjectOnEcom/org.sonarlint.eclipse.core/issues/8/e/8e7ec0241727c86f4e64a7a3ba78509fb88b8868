@@ -1,0 +1,11 @@
+
+i	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿHß/RMAJORZBUG
+VWeb:ImgWithoutAltCheck "%Add an "alt" attribute to this image.(ğØø®Hà/RMINORZBUG
+VWeb:ImgWithoutAltCheck""%Add an "alt" attribute to this image.(â÷êîHá/RMINORZBUG
+VWeb:BoldAndItalicTagsCheck&"!Replace this <b> tag by <strong>.(Ş‡öçHâ/RMINORZBUG
+[Web:BoldAndItalicTagsCheck)"!Replace this <b> tag by <strong>.(ØëÒşÿÿÿÿHã/RMINORZBUG
+[Web:BoldAndItalicTagsCheck,"!Replace this <b> tag by <strong>.(Äİ¹æùÿÿÿÿHä/RMINORZBUG
+dWeb:AvoidCommentedOutCodeCheck/"Remove this commented out code.(ÖÒ…–ıÿÿÿÿHå/RMAJORZ
+CODE_SMELL
+VWeb:BoldAndItalicTagsCheck2"!Replace this <b> tag by <strong>.(Ù—‡ãHæ/RMINORZBUG
+VWeb:BoldAndItalicTagsCheck2"!Replace this <b> tag by <strong>.(Ù—‡ãHç/RMINORZBUG

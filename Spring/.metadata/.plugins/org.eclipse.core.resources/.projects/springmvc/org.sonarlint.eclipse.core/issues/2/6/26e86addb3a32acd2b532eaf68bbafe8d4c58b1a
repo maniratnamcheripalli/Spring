@@ -1,0 +1,7 @@
+
+€
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ëƒô÷ýÿÿÿÿ8¥ç ˆÄ0Hž/RMINORZ
+CODE_SMELL
+‰
+java:S1128"VRemove this unused import 'org.springframework.web.bind.annotation.SessionAttributes'.(¾—‚ö8¥ç ˆÄ0H /RMINORZ
+CODE_SMELL

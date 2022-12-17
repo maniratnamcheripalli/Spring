@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.springframework.org/schema/beans
+ https://www.springframework.org/schema/beans/spring-beans.xsd">
+ 
+ 
+ 
+ 	<bean class="com.setter.Employee" name="employee">
+ 		
+ 		<property name="id" value="1955"></property>
+ 		
+ 		<property name="name" value="maniratnam"></property>
+ 		
+ 		<property name="company" value="Techouts"></property>
+ 	
+ 	</bean>
+ 
+ 	<bean class="com.setter.Address" name="address">
+ 	
+ 		<property name="country" value="India"></property>
+ 		<property name="State" value="Telangana"></property>
+ 		<property name="pinCode" value="501511" ></property>
+ 		<property name="emp" ref="employee"></property>
+ 	</bean>
+ 
+ </beans>

@@ -1,0 +1,18 @@
+
+
+java:S1488("_Immediately return this expression instead of assigning it to the temporary variable "student".(ñèŠúÿÿÿÿHš3RMINORZ
+CODE_SMELL
+Š
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "r".(¾ÊúæşÿÿÿÿH3RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ŸäûÿÿÿÿH 3RMINORZ
+CODE_SMELL
+
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "delete".(Ëû–ßûÿÿÿÿH¡3RMINORZ
+CODE_SMELL
+‹
+java:S1488""_Immediately return this expression instead of assigning it to the temporary variable "student".(–ØõÒH¤3RMINORZ
+CODE_SMELL
+Š
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "update".(Ø­‡¥H§3RMINORZ
+CODE_SMELL
